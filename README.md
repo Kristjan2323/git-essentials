@@ -1,5 +1,3 @@
- # Git essentials / Git for everebody
-
 > This will teach you how to use everyday git.
 
-Course created !! 
+Course created !!  (main branch)
